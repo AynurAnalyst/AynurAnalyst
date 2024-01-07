@@ -10,7 +10,7 @@
   <a href="https://drive.google.com/file/d/1TqxK6mNQ2cNjbnKhFoedFHRBHOYCPDGX/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV-red?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV"/>
   </a>
-  <a href="https://t.me/swaymedolce">
+  <a href="https://t.me/aynur_ser">
     <img src="https://img.shields.io/badge/Tg-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="CV"/>
   </a>
 </div>
