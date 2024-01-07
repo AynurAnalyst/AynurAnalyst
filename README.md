@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://drive.google.com/file/d/1TqxK6mNQ2cNjbnKhFoedFHRBHOYCPDGX/view?usp=sharing">
-    <img src="https://img.shields.io/badge/CV-red?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/>
+    <img src="https://previews.123rf.com/images/vectorv/vectorv1905/vectorv190504549/123311125-grey-resume-icon-isolated-on-transparent-background.-cv-application.-searching-professional-staff.-analyzing-personnel-resume.-vector-illustration.jpg" alt="CV"/>
   </a>
   <a href="https://t.me/aynur_ser">
     <img src="https://img.shields.io/badge/Tg-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="CV"/>
