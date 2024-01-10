@@ -4,9 +4,6 @@
 Познакомился с аналитикой еще в институте, когда проводил лабораторные испытания и меня это зацепило.
 <br/><br/>
 <div id="badges">
-  <a href=>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://drive.google.com/file/d/1tJKmsbxR8OpqOZBw5E_cut0CR2ylS5Hf/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV-red?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV"/>
   </a>
